@@ -1,0 +1,23 @@
+{
+  "name": "s3-terraform-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sam-patterns-cli": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomSpencerLondon/s3-terraform-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomSpencerLondon/s3-terraform-practice/issues"
+  },
+  "homepage": "https://github.com/TomSpencerLondon/s3-terraform-practice#readme"
+}
